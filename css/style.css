@@ -730,11 +730,8 @@ font-family:serif;
     height: 0;
     top: 0;
     left: 0;
-<<<<<<< HEAD
     transition: 1s;
-=======
     transition:1s;
->>>>>>> f9663c644fac8ba1b8378449676276451666ddd8
     background-color: #51a0af;
     opacity: 0;
 }
@@ -993,11 +990,7 @@ font-family:serif;
     top: 0;
     background-color: #51a0af;
     opacity: .5;
-<<<<<<< HEAD
     transition: 1s;
-=======
-     transition:1s;
->>>>>>> f9663c644fac8ba1b8378449676276451666ddd8
     position: absolute;
     border-radius: 10px;
 }
@@ -1108,11 +1101,11 @@ font-family:serif;
     top: 0;
     left: 0;
     opacity: .5;
-<<<<<<< HEAD
-    transition: 1s;
-=======
+
+    
+
      transition:1s;
->>>>>>> f9663c644fac8ba1b8378449676276451666ddd8
+
     background-color: #51a0af;
     position: absolute;
     z-index: -1;
